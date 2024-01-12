@@ -1,4 +1,4 @@
-# AIGS_1006_Sneaker_Data_Analysis_Group3
+# Deep Learning Project | Arbit - Sneaker Resale Market Analysis
 
 This repository contains
 1. Sneaker data analysis progress report
