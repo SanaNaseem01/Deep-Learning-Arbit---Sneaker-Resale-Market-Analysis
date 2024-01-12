@@ -1,5 +1,5 @@
 # Deep Learning Project | Arbit - Sneaker Resale Market Analysis
-November 13 2023 - December 7 2023
+Duration: November 13 2023 - December 7 2023
 
 This repository contains
 1. Sneaker data analysis progress report
